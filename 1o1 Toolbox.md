@@ -37,3 +37,8 @@
 # Executives / Skip-Level
 - Tell me about what the single most important overarching goal of the year is.
 - Tell me about how we compare to {{current function}} in terms of competitors on the market?
+
+# First Team - Managers
+[[Team Assessments#In- Attention to Results Status Ego]]
+- Tell me about when you last vouched for a decision that did not benefit your direct team but your first team/the company?
+- Tell me about how you contribute to a first team identity?
