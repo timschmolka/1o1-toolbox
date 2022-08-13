@@ -11,7 +11,8 @@
 [[Team Assessments#Fear of Conflict Artificial Harmony]]
 - Tell me about how you encourage debates in your team
 - Tell me about a time where you last had a debate in your team
-- How comfortable are you feeling, raising concerns or (controversial) opinions within your team?
+- Tell me about a time, when you last voiced a controversial opinion in a debate
+- How comfortable are you feeling, raising concerns or (controversial) opinions within your team? (maybe delete in favor of above)
 - Tell me about when you last held back an argument - and why
 
 ## Level of Commitment and Ambiguity
