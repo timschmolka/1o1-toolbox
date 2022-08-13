@@ -17,6 +17,7 @@
 
 ## Level of Commitment and Ambiguity
 [[Team Assessments#Lack of Commitment Ambiguity]]
+- Tell me about how your peers contribute to the collective goal of the team
 - Tell me about a time, when you did not feel heard in an argument
 - Tell me about a time when you commited to a plan which you did not agree to
 - Tell me about how you achieve a strong commitment inside your team
