@@ -1,5 +1,9 @@
 
 # Teams
+
+## Cognitive Load
+- How able are you to do your work in a timely and high-quality fashion?
+
 ## Level of Trust
 [[Team Assessments#Absence of Trust Vulnerability]]
 - Tell me about a time where you last talked openly about your weaknessess
