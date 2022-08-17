@@ -1,8 +1,10 @@
 
 # Teams
 
-## Cognitive Load
+## [[Cognitive Load]]
 - How able are you to do your work in a timely and high-quality fashion?
+- Tell me about your purpose of your work in your team
+- Tell me about the last time you reduced cognitive load within your team
 
 ## Level of Trust
 [[Team Assessments#Absence of Trust Vulnerability]]
@@ -45,6 +47,7 @@
 - Tell me about how we compare to {{current function}} in terms of competitors on the market?
 
 # First Team - Managers
+[[Teams as the fundamental means of delivery]]
 [[Team Assessments#In- Attention to Results Status Ego]]
 - Tell me about when you last vouched for a decision that did not benefit your direct team but your first team/the company?
 - Tell me about how you contribute to a first team identity?
